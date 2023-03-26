@@ -4,11 +4,8 @@ A tool built on top of boto3 that allows you to easily manage your S3 buckets.
 
 <!-- Python version bugde -->
 
-<!-- [![Python Version](https://img.shields.io/pypi/pyversions/s3hive.svg)](https://pypi.org/project/s3hive/)
+[![Python Version](https://img.shields.io/pypi/pyversions/s3hive.svg)](https://pypi.org/project/s3hive/)
 [![PyPI version](https://badge.fury.io/py/s3hive.svg)](https://badge.fury.io/py/s3hive)
-[![Build Status](https://travis-ci.com/sotberd/s3hive.svg?branch=main)](https://travis-ci.com/sotberd/s3hive)
-[![codecov](https://codecov.io/gh/sotberd/s3hive/branch/main/graph/badge.svg)](https://codecov.io/gh/sotberd/s3hive) -->
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
